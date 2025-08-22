@@ -18,3 +18,9 @@
     
 </body>
 </html>
+
+    <h1>efitos sonoros</h1>
+    <h2>radio grẽmio estudantil </h2>
+
+    <sectiom class="teclao">
+        <button class="tecla tecla_aplausos"><img src="images/aplausos.svg" alt="aplausos"></button>
